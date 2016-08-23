@@ -1,1 +1,2 @@
 This is testing git #2.
+M makes a change.
